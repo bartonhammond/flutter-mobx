@@ -1,11 +1,11 @@
 name: flutter_mobx
-description: A new Flutter project.
+description: Flutter widgets for MobX
 version: 0.0.1
-author:
-homepage:
+author: Pavan Podila <pavan@pixelingene.com>
+homepage: https://github.com/mobxjs/flutter-mobx
 
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  sdk: ">=2.1.0-dev <3.0.0"
 
 dependencies:
   flutter:
